@@ -8,7 +8,7 @@
 
 3- run the following command: "./compile_3ds.sh" on the MSYS2 shell (it will also install the library to devkitPro's portlibs directory)
 
-Below is FFTW's original README.MD:
+Below is FFTW's original README (changed to README.MD):
 -----------------------------------
 
 FFTW is a free collection of fast C routines for computing the
