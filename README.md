@@ -4,9 +4,9 @@
 
 1- Open devkitPro's MSYS2 shell (with the open_msys2_shell_here.bat)
 
-2- run the following command: "./configure_3ds.sh" on the MSYS2 shell
+2- run the following command: `./configure_3ds.sh` on the MSYS2 shell
 
-3- run the following command: "./compile_3ds.sh" on the MSYS2 shell (it will also install the library to devkitPro's portlibs directory)
+3- run the following command: `./compile_3ds.sh` on the MSYS2 shell (it will also install the library to devkitPro's portlibs directory)
 
 Below is FFTW's original README (changed to README.MD):
 -----------------------------------
