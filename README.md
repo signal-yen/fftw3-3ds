@@ -1,14 +1,3 @@
-# FFTW (Fast Fourier Transform in the West) 3.3.11, With compiling scripts for the Nintendo 3DS
-
-## BUILDING INSTRUCTIONS (Only Tested on Windows):
-### 1- Open devkitPro's MSYS2 shell (with the open_msys2_shell_here.bat)
-
-### 2- run the following command: "./configure_3ds.sh" on the MSYS2 shell
-
-### 3- run the following command: "./compile_3ds.sh" on the MSYS2 shell (it will also install the library to devkitPro's portlibs directory)
-
-Below is FFTW's original README.MD:
-
 FFTW is a free collection of fast C routines for computing the
 Discrete Fourier Transform in one or more dimensions.  It includes
 complex, real, symmetric, and parallel transforms, and can handle
